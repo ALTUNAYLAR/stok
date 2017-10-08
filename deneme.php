@@ -4,5 +4,5 @@
  * User: Şükrü Altunay
  * Date: 8.10.2017
  * Time: 19:39
- * deneme
+ * Deneme github tarafında yapıldı
  */
